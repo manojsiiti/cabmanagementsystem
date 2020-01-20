@@ -1,10 +1,10 @@
 ----------------------------------------------------------------
-Sat Jan 19 14:48:37 IST 2019:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0168-6567-a31e-000007c6d0b0 
+Sat Jan 18 14:49:02 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-016f-b7f2-d357-000008235360 
 on database directory memory:/Users/msaini2/dev/learnspringboot/testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
 Loaded from file:/Users/msaini2/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_111-b14
+java.runtime.version=1.8.0_201-b09
 user.dir=/Users/msaini2/dev/learnspringboot
 os.name=Mac OS X
 os.arch=x86_64
